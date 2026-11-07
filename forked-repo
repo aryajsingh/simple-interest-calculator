@@ -1,0 +1,54 @@
+Last login: Tue Sep 29 04:02:22 on ttys001
+
+aryasingh@dhcp-10-173-59-244 \~ % 
+
+curl -s [https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub](https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub) | grep -A 6 '"fork":'
+
+  "fork": true,
+
+  "url": "[https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub](https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub)",
+
+  "forks_url": "[https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/forks](https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/forks)",
+
+  "keys_url": "[https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/keys{/key_id](https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/keys{/key_id)}",
+
+  "collaborators_url": "[https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/collaborators{/collaborator](https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/collaborators{/collaborator)}",
+
+  "teams_url": "[https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/teams](https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/teams)",
+
+  "hooks_url": "[https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/hooks](https://api.github.com/repos/aryajsingh/mcino-Introduction-to-Git-and-GitHub/hooks)",
+
+\--
+
+    "fork": false,
+
+    "url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub)",
+
+    "forks_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks)",
+
+    "keys_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/keys{/key_id](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/keys{/key_id)}",
+
+    "collaborators_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/collaborators{/collaborator](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/collaborators{/collaborator)}",
+
+    "teams_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/teams](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/teams)",
+
+    "hooks_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/hooks](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/hooks)",
+
+\--
+
+    "fork": false,
+
+    "url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub)",
+
+    "forks_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks)",
+
+    "keys_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/keys{/key_id](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/keys{/key_id)}",
+
+    "collaborators_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/collaborators{/collaborator](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/collaborators{/collaborator)}",
+
+    "teams_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/teams](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/teams)",
+
+    "hooks_url": "[https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/hooks](https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/hooks)",
+
+aryasingh@dhcp-10-173-59-244 \~ % 
+this?
